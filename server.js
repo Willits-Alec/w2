@@ -21,3 +21,6 @@ mongodb.initDb((err, mongodb) =>{
       console.log('connected to DB');
   }
 });
+
+
+//MONGODB_URI=mongodb+srv://Awillits:@cluster0.pnpy51q.mongodb.net/
