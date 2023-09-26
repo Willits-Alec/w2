@@ -1,7 +1,7 @@
 const express = require('express');
 const MongoClient = require('mongodb').MongoClient;
 const mongodb = require('./db/connect');
-const port = process.env.PORT || 8080;
+const port = 8080;
 const app = express();
 
 
