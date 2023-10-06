@@ -26,4 +26,3 @@ mongodb.initDb((err, mongodb) =>{
 });
 
 
-//MONGODB_URI=mongodb+srv://Awillits:@cluster0.pnpy51q.mongodb.net/

@@ -20,8 +20,5 @@ router.get('/contacts', async (req, res) =>{
     }
 });
 
-
-
-
 module.exports = router;
 
