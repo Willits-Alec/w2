@@ -1,4 +1,4 @@
-GET http://localhost:8080/contacts HTTP/1.1
+GET http://localhost:8080/contacts/651386b51f77de710aaf583f HTTP/1.1
 
 ###
 GET http://localhost:8080/ HTTP/1.1
@@ -7,4 +7,7 @@ GET http://localhost:8080/ HTTP/1.1
 GET https://w2-11nx.onrender.com HTTP/1.1
 
 ###
-GET https://w2-11nx.onrender.com/person2 HTTP/1.1
+//post
+//put - update
+//delete
+//get
